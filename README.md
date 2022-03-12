@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/landing-page-using-html-and-css-ufyBKKuNA](https://www.frontendmentor.io/solutions/landing-page-using-html-and-css-ufyBKKuNA)
+- Solution URL: [https://www.frontendmentor.io/solutions/solution-for-qr-code-component-challenge-H-ZIwMjxx](https://www.frontendmentor.io/solutions/solution-for-qr-code-component-challenge-H-ZIwMjxx)
 - Live Site URL: [https://luizgustavoabreu.github.io/qr-code-component](https://luizgustavoabreu.github.io/qr-code-component)
 
 #
