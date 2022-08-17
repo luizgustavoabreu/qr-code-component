@@ -21,7 +21,7 @@ body {
   font-size: 15px;
 }
 
-.container {
+main {
   max-width: 320px;
   display: flex;
   flex-wrap: wrap;
@@ -46,7 +46,8 @@ body {
   border-radius: 25px !important;
 }
 
-h2 {
+h1 {
+  font-size: 1.4rem;
   color: hsl(218, 44%, 22%);
   text-align: center;
   margin: 0 5px;
